@@ -1,0 +1,93 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <!-- <meta http-equiv="X-UA-Compatible" content="chrome=1"> -->
+    <title>jquery-confirm.js | The multipurpose alert & confirm</title>
+    
+
+   <link rel="stylesheet"
+          href="../demo/libs/bundled.css">
+    <script src="../demo/libs/bundled.js"></script>
+
+  <!-- <link rel="stylesheet"
+          href="demo/demo.css">-->
+    <script>
+        var version = '3.3.0';
+    </script>
+    <!-- Add the minified version of files from the /dist/ folder. -->
+    <!-- jquery-confirm files -->
+    <link rel="stylesheet"
+          type="text/css"
+          href="../assets/css/jquery-confirm.css"/>
+    <script type="text/javascript"
+            src="../assets/js/jquery-confirm.js"></script>
+    <!--<script type="text/javascript"-->
+    <!--src="dist/jquery-confirm.min.js"></script>-->
+    <!--END jquery-confirm files-->
+</head>
+<body>
+
+
+<!--<div style="height:50px"></div>-->
+<div class="container">
+    <div class="row">
+        
+        <div class="col-md-12 col-sm-12">
+
+            
+
+            <!-- Installation -->
+            
+                
+
+            <!-- basic usage -->
+            <section id="usage">
+                <h3>Quick Usage</h3>
+
+                <div class="section">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h4 id="alert">
+                                <code>$.alert</code>
+                            </h4>
+
+                            <p>
+                                adds one button (okay) if no buttons are specified, this lets the user to close the
+                                modal.
+                            </p>
+                            <button class="example1 btn btn-primary">example alert</button>
+                            <script type="text/javascript">
+                                $('.example1').on('click', function () {
+                                    $.alert({
+                                        title: 'Alert!',
+                                        content: 'Simple alert!',
+                                    });
+                                });
+                            </script>
+                            <div class="space10"></div>
+                            <pre class="prettyprint linenums"><code class="js">$.alert({
+    title: 'Alert!',
+    content: 'Simple alert!',
+});</code></pre>
+                        </div>
+                        
+                       
+                        
+                    </div>
+                </div>
+            </section>
+
+           
+
+           
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+</body>
+</html>

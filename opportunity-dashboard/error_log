@@ -1,0 +1,268 @@
+[22-Sep-2018 13:33:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' for key 'PRIMARY''' at line 1' in /home/idawncok/public_html/opportunity-dashboard/fetch_referees.php:16
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/fetch_referees.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/fetch_referees.php on line 16
+[25-Sep-2018 20:12:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[25-Sep-2018 20:15:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[27-Sep-2018 14:37:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[27-Sep-2018 14:38:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[27-Sep-2018 14:40:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[27-Sep-2018 14:40:18 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[28-Sep-2018 17:47:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[28-Sep-2018 17:50:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[28-Sep-2018 17:50:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[28-Sep-2018 17:51:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[29-Sep-2018 03:16:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[29-Sep-2018 03:16:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[29-Sep-2018 03:17:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[29-Sep-2018 03:19:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[29-Sep-2018 03:20:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[29-Sep-2018 03:22:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[29-Sep-2018 03:22:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[29-Sep-2018 03:23:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[29-Sep-2018 03:24:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' for key 'PRIMARY''' at line 1' in /home/idawncok/public_html/opportunity-dashboard/fetch_hobbies.php:16
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/fetch_hobbies.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/fetch_hobbies.php on line 16
+[29-Sep-2018 03:25:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' for key 'PRIMARY''' at line 1' in /home/idawncok/public_html/opportunity-dashboard/fetch_hobbies.php:16
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/fetch_hobbies.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/fetch_hobbies.php on line 16
+[29-Sep-2018 03:27:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[01-Oct-2018 16:59:18 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[04-Oct-2018 15:47:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[04-Oct-2018 15:49:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[04-Oct-2018 15:49:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[04-Oct-2018 15:50:24 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[07-Oct-2018 14:59:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[07-Oct-2018 15:01:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[15-Oct-2018 08:14:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[15-Oct-2018 08:14:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[15-Oct-2018 08:14:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:23
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 23
+[15-Oct-2018 12:42:52 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/idawncok/public_html/opportunity-dashboard/fetch_workinfo.php on line 7
+[15-Oct-2018 12:42:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:27
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 27
+[15-Oct-2018 12:42:55 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/idawncok/public_html/opportunity-dashboard/fetch_workinfo.php on line 7
+[15-Oct-2018 12:42:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:27
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 27
+[15-Oct-2018 12:43:19 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:27
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 27
+[15-Oct-2018 12:43:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:27
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 27
+[15-Oct-2018 12:43:37 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/idawncok/public_html/opportunity-dashboard/fetch_workinfo.php on line 7
+[15-Oct-2018 12:43:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:27
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 27
+[15-Oct-2018 12:43:40 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/idawncok/public_html/opportunity-dashboard/fetch_workinfo.php on line 7
+[15-Oct-2018 12:43:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:27
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 27
+[15-Oct-2018 13:10:46 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/idawncok/public_html/opportunity-dashboard/fetch_workinfo.php on line 7
+[15-Oct-2018 13:10:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:27
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 27
+[15-Oct-2018 13:10:55 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/idawncok/public_html/opportunity-dashboard/fetch_workinfo.php on line 7
+[15-Oct-2018 13:10:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:27
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 27
+[15-Oct-2018 13:11:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:27
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 27
+[15-Oct-2018 13:11:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:27
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 27
+[15-Oct-2018 13:15:24 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/idawncok/public_html/opportunity-dashboard/fetch_workinfo.php on line 7
+[15-Oct-2018 13:15:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:27
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 27
+[15-Oct-2018 13:18:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:27
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 27
+[15-Oct-2018 13:36:11 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/idawncok/public_html/opportunity-dashboard/fetch_workinfo.php on line 7
+[15-Oct-2018 13:36:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:27
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 27
+[15-Oct-2018 13:37:52 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/idawncok/public_html/opportunity-dashboard/fetch_workinfo.php on line 7
+[15-Oct-2018 13:38:13 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/idawncok/public_html/opportunity-dashboard/fetch_workinfo.php on line 7
+[09-Nov-2018 07:23:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:27
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 27
+[09-Nov-2018 07:24:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:27
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 27
+[09-Nov-2018 07:24:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:27
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 27
+[09-Nov-2018 07:24:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:27
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 27
+[09-Nov-2018 07:24:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' for key 'PRIMARY''' at line 1' in /home/idawncok/public_html/opportunity-dashboard/fetch_hobbies.php:20
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/fetch_hobbies.php(20): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/fetch_hobbies.php on line 20
+[09-Nov-2018 07:24:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'' in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php:27
+Stack trace:
+#0 /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/idawncok/public_html/opportunity-dashboard/update_cvcomp.php on line 27
+[16-Jun-2019 09:38:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/idawncok/public_html/dbconfig.php:22) in /home/idawncok/public_html/class.user.php on line 787
+[16-Jun-2019 09:38:24 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/idawncok/public_html/class.user.php on line 38
+[16-Jun-2019 09:38:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/idawncok/public_html/dbconfig.php:22) in /home/idawncok/public_html/class.user.php on line 787
